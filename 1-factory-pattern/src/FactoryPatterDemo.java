@@ -1,4 +1,5 @@
-package com.fp;
+import com.fp.Shape;
+import com.fp.ShapeFactory;
 
 public class FactoryPatterDemo {
     public static void main(String[] args) {
