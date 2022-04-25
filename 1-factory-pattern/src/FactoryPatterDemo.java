@@ -1,5 +1,5 @@
-import com.fp.Shape;
-import com.fp.ShapeFactory;
+import com.fp.iface.Shape;
+import com.fp.factory.ShapeFactory;
 
 public class FactoryPatterDemo {
     public static void main(String[] args) {

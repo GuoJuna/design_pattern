@@ -1,4 +1,9 @@
-package com.fp;
+package com.fp.factory;
+
+import com.fp.Circle;
+import com.fp.Rectangle;
+import com.fp.Square;
+import com.fp.iface.Shape;
 
 public class ShapeFactory {
 

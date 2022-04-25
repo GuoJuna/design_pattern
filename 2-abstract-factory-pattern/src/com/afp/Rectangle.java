@@ -1,6 +1,6 @@
-package com.fp;
+package com.afp;
 
-import com.fp.iface.Shape;
+import com.afp.iface.Shape;
 
 /**
  * 创建一个矩形实现类

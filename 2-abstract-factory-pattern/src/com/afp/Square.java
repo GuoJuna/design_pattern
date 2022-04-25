@@ -1,6 +1,6 @@
-package com.fp;
+package com.afp;
 
-import com.fp.iface.Shape;
+import com.afp.iface.Shape;
 
 public class Square implements Shape {
     @Override

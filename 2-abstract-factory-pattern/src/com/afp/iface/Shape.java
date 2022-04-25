@@ -1,4 +1,4 @@
-package com.fp;
+package com.afp.iface;
 
 /**
  * 创建一个形状接口
