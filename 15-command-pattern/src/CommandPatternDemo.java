@@ -9,6 +9,7 @@ import com.cp.Stock;
  * @since 2022/5/16 18:44
  */
 public class CommandPatternDemo {
+
     public static void main(String[] args) {
         Stock stock = new Stock();
 
